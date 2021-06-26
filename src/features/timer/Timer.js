@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
   title: {
     color: colors.white,
     textAlign: 'center',
-    size: fontSizes.xxxl,
+    fontSize: fontSizes.xxxl,
   },
   task: {
     color: colors.white,
