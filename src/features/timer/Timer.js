@@ -90,7 +90,6 @@ const styles = StyleSheet.create({
     color: colors.white,
     textAlign: 'center',
     fontSize: fontSizes.xxxl,
-    
   },
   task: {
     color: colors.white,
